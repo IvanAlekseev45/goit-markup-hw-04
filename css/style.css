@@ -264,11 +264,7 @@ ul {
 .link-social:focus {
   background-color: #404bbf;
 }
-.ul-list-social {
-  display: flex;
-  justify-content: center;
-  gap: 24px;
-}
+
 .vector-images {
   fill: #f4f4fd;
 }
@@ -466,13 +462,28 @@ ul {
 
   align-items: baseline;
 }
-.h-last-social {
+.p-last-social {
   margin-bottom: 16px;
   font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #ffffff;
 }
 .footer-main-container {
   display: flex;
   align-items: baseline;
-  gap: 120px;
+}
+.div-footer-logo {
+  margin-right: 120px;
+}
+.ul-list-social {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+.link-social.link-social-footer:hover,
+.link-social.link-social-footer:hover {
+  background-color: #31d0aa;
 }
