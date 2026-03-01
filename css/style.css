@@ -462,7 +462,7 @@ ul {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: #ffffff;
 }
 .footer-main-container {
   display: flex;
@@ -477,6 +477,6 @@ ul {
   gap: 16px;
 }
 .link-social.link-social-footer:hover,
-.link-social.link-social-footer:hover {
+.link-social.link-social-footer:focus {
   background-color: #31d0aa;
 }
