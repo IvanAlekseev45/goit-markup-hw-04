@@ -484,3 +484,6 @@ ul {
 .link-social.link-social-footer:focus {
   background-color: #31d0aa;
 }
+.portfolio:hover .item-portfolio {
+  cursor: pointer;
+}
